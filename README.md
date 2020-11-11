@@ -1,5 +1,3 @@
-![alt text](./images/top.svg)
-
 I love coding in Java :coffee:. I work at [Globallogic](https://globallogic.com) as a Backend Developer and occassionally participate in hackathons.
 
 <!--
@@ -24,6 +22,3 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/Capconve"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
-
-![alt text](./images/bottom.svg)
-
